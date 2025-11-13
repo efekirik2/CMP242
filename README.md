@@ -15,7 +15,7 @@ It will demonstrate how classes, inheritance, polymorphism, and encapsulation wo
 
 Animal-Base Class
 
-Attributes: isim, yas, tur
+Attributes: name, age, round
 
 Methods:
 
