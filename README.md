@@ -1,3 +1,4 @@
+# Too many bugs in your code!!!
 CMP242: OBJECT-ORİENTED PROGRAMMİNG2-ZOO SIMULATOR
 
 The goal of this project is to simulate the daily operations of a zoo — managing animals, their behaviors, feeding routines, and sounds — using Object-Oriented Programming (OOP) principles in Python.
